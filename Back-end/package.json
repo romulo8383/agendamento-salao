@@ -1,0 +1,15 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "backend do projeto de agendamentos",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "mongoose": "^8.11.0"
+    },
+    "author": "Romulo Duani",
+    "license": "ISC"
+}
